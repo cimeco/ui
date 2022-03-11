@@ -1,0 +1,23 @@
+{
+  "name": "@cimeco/ui",
+  "version": "1.0.0",
+  "description": "Módulos para la interfaz de usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cimeco/ui.git"
+  },
+  "keywords": [
+    "arc",
+    "ui"
+  ],
+  "author": "Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cimeco/ui/issues"
+  },
+  "homepage": "https://github.com/cimeco/ui#readme"
+}
